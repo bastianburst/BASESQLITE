@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasqlLite1</string>
+    <string name="app_saved">Guardar</string>
+    <string name="app_deleted">Eliminar</string>
+    <string name="app_search">Buscar</string>
+    <string name="app_updated">Actualizar</string>
+    <string name="app_code">Código</string>
+    <string name="app_desc">Descripción</string>
+    <string name="app_price">Precio</string>
+</resources>
